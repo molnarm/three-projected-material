@@ -1,4 +1,4 @@
-# three-projected-material!
+# three-projected-material
 
 > Three.js Material which lets you do [Texture Projection](https://en.wikipedia.org/wiki/Projective_texture_mapping) on a 3d Model.
 
